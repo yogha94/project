@@ -6,4 +6,7 @@ public class Project {
       System.out.println("Any Project");
 	}
 	
+	private void ajayWork() {
+   System.out.println("Ajay compleated his work");
+	}
 }
