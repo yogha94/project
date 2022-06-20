@@ -15,5 +15,8 @@ public class Project {
 		System.out.println("Arun has finished his works");
 
 	}
+	private void danyWork() {
+ System.out.println("Dany completed his work");
+	}
 
 }
